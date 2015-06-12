@@ -1,4 +1,5 @@
-#personal
+# -*- coding: utf-8 -*-
+#插入排序
 def InsertSort(numbers):
     for j in xrange(1,len(numbers)):
         #print 'current is ',j
